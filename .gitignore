@@ -1,0 +1,12 @@
+.history/
+build/
+.env
+vendor/
+*.zip
+.venv/
+requirements.txt
+.DS_Store
+*.tfstate*
+tf/.terraform/
+.mypy_cache/
+tf/.terraform.lock.hcl
